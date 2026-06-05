@@ -257,9 +257,7 @@ chmod +x bootstrap.sh && ./bootstrap.sh
 环境配得再漂亮，如果每次打开终端等两秒，体验就毁了。实测 Zsh 启动时间在 200ms 以内：
 
 ```bash
-for i in $(seq 1 5); do
-  /usr/bin/time -f '%e seconds' zsh -i -c exit 2>&1
-done
+for i in $(seq 1 5); do start=$(date +%s%3N); zsh -i -c exit; end=$(date +%s%3N); echo "$((end - start)) ms"; done
 ```
 
 能达到这个速度主要是几个选择的结果：Sheldon 并行加载替代 Oh My Zsh 的串行 source，Starship Rust 实现替代 Powerlevel10k 的 pure-Zsh 实现，条件 compinit 跳过 24 小时内不需要重建的补全缓存。

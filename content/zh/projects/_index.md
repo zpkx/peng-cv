@@ -22,7 +22,7 @@ sections:
         经应用识别、模式匹配与 **LangGraph AI Agent** 分析后，通过邮件 + Webex 双通道智能通知。
 
         - 将 Control-M 及通用 Splunk 告警通知升级为 **Webex Adaptive Card**（作业详情、Oracle 异常、可折叠区块等结构化展示）
-        - 集成 **Confluence Wiki 故障排查** 摘要并渲染至卡片；修复 **OAuth2 精确匹配** 校验问题
+        - 集成 **Confluence Wiki 故障排查** 摘要并渲染至卡片
         - 通过 CronJob 定时从 **LangSmith** 读取 Run/Trace 数据，写入 **Snowflake** 支撑 AI 告警可观测性
         - 在组件级 YAML 支持 `custom_fields`，从 Splunk `result` 动态提取业务字段，贯通全链路展示
 

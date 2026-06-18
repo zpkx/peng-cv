@@ -543,7 +543,7 @@
             Webhook接收Splunk告警，经应用识别、模式匹配和LangGraph AI Agent分析后，通过邮件和Webex双通道智能通知。</div>
           <ul class="contrib-list">
             <li>将Control-M和通用Splunk告警升级为Webex Adaptive Card，结构化展示作业详情、Oracle异常等。集成Confluence
-              Wiki故障排查摘要并渲染到卡片。修复OAuth2精确匹配校验问题。</li>
+              Wiki故障排查摘要并渲染到卡片。</li>
             <li>使用CronJob定时从LangSmith拉取Run/Trace数据，写入Snowflake，支撑AI告警链路的观测和指标分析。</li>
             <li>在组件级YAML中支持custom_fields，从Splunk结果动态提取namespace、pod等业务字段，贯通Webhook到分析器再到通知的全链路展示。</li>
           </ul>

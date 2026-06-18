@@ -23,7 +23,7 @@ sections:
         notifications through email + Webex dual channels.
 
         - Upgraded Control-M and general Splunk alerts to **Webex Adaptive Cards** with structured display
-        - Integrated **Confluence Wiki** troubleshooting summaries into cards; fixed **OAuth2** validation issues
+        - Integrated **Confluence Wiki** troubleshooting summaries into cards
         - Scheduled CronJob to read Run/Trace data from **LangSmith** and write to **Snowflake** for AI observability
         - Added `custom_fields` support in component YAML, extracting business fields from Splunk `result` dynamically
 

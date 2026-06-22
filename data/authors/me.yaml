@@ -28,9 +28,9 @@ bio: "I bring strong self-management, a proactive learning mindset, and solid ha
   I am highly self-driven and committed to continuous improvement, proactively exploring
 
   frontier technologies and striving for excellence in every task.\n"
-affiliations:
-  - name: "Cisco Systems (China) R&D Co., Ltd."
-    url: "https://www.cisco.com/"
+# affiliations:
+#   - name: "Cisco Systems (China) R&D Co., Ltd."
+#     url: "https://www.cisco.com/"
 links:
   - icon: "at-symbol"
     url: "mailto:zpkx@qq.com"

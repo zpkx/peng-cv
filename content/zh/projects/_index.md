@@ -76,7 +76,7 @@ sections:
         ---
 
         ### Supply Chain Finance Miscellaneous Tools
-        - 📅 **项目周期**：2023/9 — 至今
+        - 📅 **项目周期**：2023/9 — 2026/4
 
         - **技术栈**: Java 21 · Spring Boot 4.0 · Spring Security · OAuth2 · Angular 21 · Gradle (Kotlin DSL) · Docker · Jenkins · Spinnaker · Conjur
 
@@ -92,7 +92,7 @@ sections:
         ---
 
         ### CART-Kafka — CBM 数据接入微服务
-        - 📅 **项目周期**：2024/7 — 至今
+        - 📅 **项目周期**：2024/7 — 2026/4
 
         - **技术栈**: Java 21 · Spring Boot 4.0 · Spring Kafka · Oracle · OAuth2 · Conjur · Docker · Jenkins · Spinnaker · OpenShift
 
@@ -108,7 +108,7 @@ sections:
         ---
 
         ### CART — Cost Analysis and Reconciliation Tool
-        - 📅 **项目周期**：2020/9 — 至今
+        - 📅 **项目周期**：2020/9 — 2026/4
 
         - **技术栈**: Java 21 · Spring Boot 4.0 · Spring Security · OAuth2 · Oracle · Redis · OpenAPI v3 · AWS S3 · Angular 21 · AG Grid · Docker · Jenkins · Spinnaker · OpenShift
 
@@ -127,7 +127,7 @@ sections:
 
         | 时间 | 项目 | 角色与亮点 |
         |---|---|---|
-        | 2018/7 — 至今 | RCE — Royalty Calculation Engine | Tech Lead（9 人跨国团队）；Cisco 专利税核心业务系统（30+ 模块）；Cloud Native + API-First；部门首个 Blue-Green 零停机部署；Nx Monorepo 与 @scf/common-lib 共享库；OpenRewrite 演进至 Spring Boot 4/Java 21/Angular 21 |
+        | 2018/7 — 2026/4 | RCE — Royalty Calculation Engine | Tech Lead（9 人跨国团队）；Cisco 专利税核心业务系统（30+ 模块）；Cloud Native + API-First；部门首个 Blue-Green 零停机部署；Nx Monorepo 与 @scf/common-lib 共享库；OpenRewrite 演进至 Spring Boot 4/Java 21/Angular 21 |
         | 2014/11 — 2018/1 | Self Service Model | 优化构建/部署流程，实现 Build-Once/Deploy-Many 与 Dev/QA Self Service 上线；开发 Continuous Delivery Portal |
         | 2013/11 — 2014/10 | Continuous Delivery Transformation | Cisco IT CDT 统一交付平台；主导 Git/Jenkins/Artifactory 迁移至新平台；uDeploy/uRelease 可行性研究与美印平台团队协作 |
         | 2012/7 — 2013/10 | Data Center Migration | WebEx DataCenter → Cisco DataCenter 应用迁移；赴美参与架构讨论与 POC；编写 WLST 自动化脚本 |

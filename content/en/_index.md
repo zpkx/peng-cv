@@ -30,10 +30,10 @@ sections:
       title: 'About My Work'
       subtitle: ''
       text: |-
-        I'm an IT Software Engineering Technical Leader at Cisco Systems with 20+ years of experience.
+        I'm an IT Software Engineering Technical Leader with 20+ years of experience.
         My work spans full-stack development, cloud native architecture, and DevSecOps engineering.
 
-        I lead cross-border teams (US / India / China) to deliver core Supply Chain Finance business
+        I led cross-border teams (US / India / China) to deliver core Supply Chain Finance business
         systems, with deep expertise in cutting-edge technology exploration, cloud native architecture
         design, and full-stack development. I champion AI technology adoption, leveraging
         Coding Agents to optimize R&D efficiency and delivery quality.

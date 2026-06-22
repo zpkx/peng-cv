@@ -21,9 +21,9 @@ bio: |
   沟通与协调。我高度自驱，致力于持续改进，积极主动地探索和钻研前沿技术，力求在每项任务中
   做到精益求精。
 
-affiliations:
-  - name: 思科系统（中国）研发有限公司
-    url: https://www.cisco.com/
+# affiliations:
+#   - name: 思科系统（中国）研发有限公司
+#     url: https://www.cisco.com/
 
 links:
   - icon: at-symbol

@@ -78,7 +78,7 @@ sections:
         ---
 
         ### Supply Chain Finance Miscellaneous Tools
-        - 📅 **Period**: Sep 2023 — Present
+        - 📅 **Period**: Sep 2023 — Apr 2026
 
         - **Stack**: Java 21 · Spring Boot 4.0 · Spring Security · OAuth2 · Angular 21 · Gradle (Kotlin DSL) · Docker · Jenkins · Spinnaker · Conjur
 
@@ -94,7 +94,7 @@ sections:
         ---
 
         ### CART-Kafka — CBM Data Ingestion Microservice
-        - 📅 **Period**: Jul 2024 — Present
+        - 📅 **Period**: Jul 2024 — Apr 2026
 
         - **Stack**: Java 21 · Spring Boot 4.0 · Spring Kafka · Oracle · OAuth2 · Conjur · Docker · Jenkins · Spinnaker · OpenShift
 
@@ -110,7 +110,7 @@ sections:
         ---
 
         ### CART — Cost Analysis and Reconciliation Tool
-        - 📅 **Period**: Sep 2020 — Present
+        - 📅 **Period**: Sep 2020 — Apr 2026
 
         - **Stack**: Java 21 · Spring Boot 4.0 · Spring Security · OAuth2 · Oracle · Redis · OpenAPI v3 · AWS S3 · Angular 21 · AG Grid · Docker · Jenkins · Spinnaker · OpenShift
 
@@ -129,7 +129,7 @@ sections:
 
         | Period | Project | Highlights |
         |---|---|---|
-        | 2018/7 — Present | RCE — Royalty Calculation Engine | Tech Lead (9-person cross-border team); Cisco's enterprise royalty calculation system (30+ modules); Cloud Native + API-First; first Blue-Green zero-downtime deployment in department; Nx Monorepo with @scf/common-lib; upgraded to Spring Boot 4/Java 21/Angular 21 via OpenRewrite |
+        | 2018/7 — 2026/4 | RCE — Royalty Calculation Engine | Tech Lead (9-person cross-border team); Cisco's enterprise royalty calculation system (30+ modules); Cloud Native + API-First; first Blue-Green zero-downtime deployment in department; Nx Monorepo with @scf/common-lib; upgraded to Spring Boot 4/Java 21/Angular 21 via OpenRewrite |
         | 2014/11 — 2018/1 | Self Service Model | Streamlined build/deploy workflows; Build-Once/Deploy-Many; Dev/QA self-service; Continuous Delivery Portal |
         | 2013/11 — 2014/10 | Continuous Delivery Transformation | Cisco IT CDT unified platform; migrated Git/Jenkins/Artifactory; uDeploy/uRelease feasibility study |
         | 2012/7 — 2013/10 | Data Center Migration | WebEx DC → Cisco DC app migration; US architecture discussions & POC; WLST automation scripts |
